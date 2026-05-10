@@ -96,6 +96,7 @@ jupyter notebook
 ---
 
 ## Project Structure
+```
 nhs-trend-analysis/
 ├── nhs_trend_analysis.ipynb           # Main analysis notebook
 ├── analysis1_monthly_attendances.png  # Monthly attendance trend
@@ -108,6 +109,7 @@ nhs-trend-analysis/
 ├── analysis8_winter_pressure.png      # Winter pressure analysis
 ├── .gitignore                         # Excludes Jupyter checkpoints
 └── README.md                          # Project documentation
+```
 
 ---
 
