@@ -1,3 +1,8 @@
+![Platform](https://img.shields.io/badge/Platform-Python_3.12-blue)
+![Tool](https://img.shields.io/badge/Tool-Jupyter_Notebook-orange)
+![Domain](https://img.shields.io/badge/Domain-Healthcare_Analytics-lightgrey)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+
 # NHS A&E Attendances & Emergency Admissions
 ## Trend Analysis | Financial Year 2025/26
 
@@ -110,6 +115,31 @@ nhs-trend-analysis/
 ├── .gitignore                         # Excludes Jupyter checkpoints
 └── README.md                          # Project documentation
 ```
+## Evidence
+
+### Analysis 1 — Monthly Attendances
+[![analysis1_monthly_attendances](analysis1_monthly_attendances.png)](analysis1_monthly_attendances.png)
+
+### Analysis 2 — 4-Hour Breach Rate
+[![analysis2_4hr_breach_rate](analysis2_4hr_breach_rate.png)](analysis2_4hr_breach_rate.png)
+
+### Analysis 3 — 12+ Hour Long Waits
+[![analysis3_long_waits](analysis3_long_waits.png)](analysis3_long_waits.png)
+
+### Analysis 4 — Top 10 Providers
+[![analysis4_top10_providers](analysis4_top10_providers.png)](analysis4_top10_providers.png)
+
+### Analysis 5 — Worst 10 Providers
+[![analysis5_worst10_breach](analysis5_worst10_breach.png)](analysis5_worst10_breach.png)
+
+### Analysis 6 — Emergency Admissions
+[![analysis6_emergency_admissions](analysis6_emergency_admissions.png)](analysis6_emergency_admissions.png)
+
+### Analysis 7 — Regional Breakdown
+[![analysis7_regional_breakdown](analysis7_regional_breakdown.png)](analysis7_regional_breakdown.png)
+
+### Analysis 8 — Winter Pressure
+[![analysis8_winter_pressure](analysis8_winter_pressure.png)](analysis8_winter_pressure.png)
 
 ---
 
