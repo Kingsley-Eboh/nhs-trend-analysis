@@ -3,3 +3,7 @@ data/
 *.csv
 __pycache__/
 *.pyc
+!powerbi/monthly_summary.csv
+!powerbi/provider_summary.csv
+!powerbi/regional_summary.csv
+!powerbi/winter_summary.csv
