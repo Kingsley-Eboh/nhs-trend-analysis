@@ -306,52 +306,52 @@ nhs-trend-analysis/
 
 ## Evidence
 
-### Analysis 1 — Monthly Attendances
+### Analysis 1: Monthly Attendances
 [![analysis1](figures/analysis1_monthly_attendances.png)](figures/analysis1_monthly_attendances.png)
 
-### Analysis 2 — 4-Hour Breach Rate
+### Analysis 2: 4-Hour Breach Rate
 [![analysis2](figures/analysis2_4hr_breach_rate.png)](figures/analysis2_4hr_breach_rate.png)
 
-### Analysis 3 — 12 Hour or Longer Waits
+### Analysis 3: 12 Hour or Longer Waits
 [![analysis3](figures/analysis3_long_waits.png)](figures/analysis3_long_waits.png)
 
-### Analysis 4 — Top 10 Providers by Attendance
+### Analysis 4: Top 10 Providers by Attendance
 [![analysis4](figures/analysis4_top10_providers.png)](figures/analysis4_top10_providers.png)
 
-### Analysis 5 — Worst 10 Providers by Breach Rate
+### Analysis 5: Worst 10 Providers by Breach Rate
 [![analysis5](figures/analysis5_worst10_breach.png)](figures/analysis5_worst10_breach.png)
 
-### Analysis 6 — Emergency Admissions
+### Analysis 6: Emergency Admissions
 [![analysis6](figures/analysis6_emergency_admissions.png)](figures/analysis6_emergency_admissions.png)
 
-### Analysis 7 — Regional Attendance Breakdown
+### Analysis 7: Regional Attendance Breakdown
 [![analysis7](figures/analysis7_regional_breakdown.png)](figures/analysis7_regional_breakdown.png)
 
-### Analysis 8 — Winter Pressure
+### Analysis 8: Winter Pressure
 [![analysis8](figures/analysis8_winter_pressure.png)](figures/analysis8_winter_pressure.png)
 
-### Analysis 10 — Month on Month Change
+### Analysis 10: Month on Month Change
 [![analysis10](figures/analysis10_month_on_month_change.png)](figures/analysis10_month_on_month_change.png)
 
-### Analysis 11 — Best 10 Providers by Breach Rate
+### Analysis 11: Best 10 Providers by Breach Rate
 [![analysis11](figures/analysis11_best10_providers.png)](figures/analysis11_best10_providers.png)
 
-### Analysis 12 — Regional Breach Rate Comparison
+### Analysis 12: Regional Breach Rate Comparison
 [![analysis12](figures/analysis12_regional_breach.png)](figures/analysis12_regional_breach.png)
 
-### Analysis 13 — Regional Performance Variation
+### Analysis 13: Regional Performance Variation
 [![analysis13](figures/analysis13_icb_performance.png)](figures/analysis13_icb_performance.png)
 
-### Analysis 14 — Provider Performance Consistency
+### Analysis 14: Provider Performance Consistency
 [![analysis14](figures/analysis14_provider_consistency.png)](figures/analysis14_provider_consistency.png)
 
-### Analysis 15 — Summary Heatmap
+### Analysis 15: Summary Heatmap
 [![analysis15](figures/analysis15_summary_heatmap.png)](figures/analysis15_summary_heatmap.png)
 
-### Power BI Dashboard — Page 1 — National Performance Overview
+### Power BI Dashboard (Page 1): National Performance Overview
 [![dashboard_page1](powerbi/national_performance_overview.png)](powerbi/national_performance_overview.png)
 
-### Power BI Dashboard — Page 2 — Provider and Regional Analysis
+### Power BI Dashboard (Page 2): Provider and Regional Analysis
 [![dashboard_page2](powerbi/provider_regional_analysis.png)](powerbi/provider_regional_analysis.png)
 
 ---
