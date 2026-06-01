@@ -4,7 +4,7 @@
 ![Tool](https://img.shields.io/badge/Tool-Power_BI-yellow)
 ![Tool](https://img.shields.io/badge/Tool-SQL-orange)
 ![Domain](https://img.shields.io/badge/Domain-Healthcare_Analytics-lightgrey)
-![Status](https://img.shields.io/badge/Status-In_Progress-orange)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ---
 
@@ -289,7 +289,14 @@ nhs-trend-analysis/
 ├── sql/
 │   └── nhs_ae_queries.sql
 ├── powerbi/
-│   └── nhs_ae_dashboard.pbix
+│   ├── nhs_ae_dashboard.pbix
+│   ├── nhs_ae_dashboard.pdf
+│   ├── national_performance_overview.png
+│   ├── provider_regional_analysis.png
+│   ├── monthly_summary.csv
+│   ├── provider_summary.csv
+│   ├── regional_summary.csv
+│   └── winter_summary.csv
 ├── data/
 ├── .gitignore
 └── README.md
@@ -340,6 +347,12 @@ nhs-trend-analysis/
 
 ### Analysis 15 — Summary Heatmap
 [![analysis15](figures/analysis15_summary_heatmap.png)](figures/analysis15_summary_heatmap.png)
+
+### Power BI Dashboard — Page 1 — National Performance Overview
+[![dashboard_page1](dashboard/national_performance_overview.png)](dashboard/national_performance_overview.png)
+
+### Power BI Dashboard — Page 2 — Provider and Regional Analysis
+[![dashboard_page2](dashboard/provider_regional_analysis.png)](dashboard/provider_regional_analysis.png)
 
 ---
 
