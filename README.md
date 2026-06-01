@@ -349,10 +349,10 @@ nhs-trend-analysis/
 [![analysis15](figures/analysis15_summary_heatmap.png)](figures/analysis15_summary_heatmap.png)
 
 ### Power BI Dashboard — Page 1 — National Performance Overview
-[![dashboard_page1](dashboard/national_performance_overview.png)](dashboard/national_performance_overview.png)
+[![dashboard_page1](powerbi/national_performance_overview.png)](powerbi/national_performance_overview.png)
 
 ### Power BI Dashboard — Page 2 — Provider and Regional Analysis
-[![dashboard_page2](dashboard/provider_regional_analysis.png)](dashboard/provider_regional_analysis.png)
+[![dashboard_page2](powerbi/provider_regional_analysis.png)](powerbi/provider_regional_analysis.png)
 
 ---
 
